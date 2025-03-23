@@ -2,8 +2,6 @@
 =====================
 - Name: Mohammad Bin Aftab
 - Email: Mohammadbinaftab26@gmail.com
-- Github: [Young-Flash](https://github.com/Young-Flash)
-- Blog: [blog](https://young-flash.github.io/)
 - Location: Kolkata, India
 - Time Zone: UTC+5:30 hours
 - University: Maulana Abul Kalam Azad University of Technology
